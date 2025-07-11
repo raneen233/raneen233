@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My_Page</title>
+</head>
+<body>
+  <header>
+    <nav>
+  <ul style="list-style: none;display: inline;">
+                <li style="display: inline;"><a href="#">Home</a></li>
+                <li style="display: inline;"><a href="#">About us</a></li>
+                <li style="display: inline;"><a href="#">Contact</a></li>
+            </ul>
+    </nav>
+  </header>
+  <hr>
+<main>
+ <h1>About Me</h1>
+ <p> I'm <mark><strong>Raneen</strong></mark>, a computer science student at <mark><em>MSA University</em></mark>. I am a hard worker person and I love my friends :D</p>
+
+ <h2>My Hobbies</h2>
+ <ul>
+    <li>Reading</li>
+    <li>Coding</li>
+    <li>Playing Video Games</li>
+ </ul>
+ <h2>Things I like</h2>
+    <ol>
+        <li>coffee</li>
+        <li>Animals</li>
+        <li>Music</li>
+    </ol>
+</main>
+</body>
+</html>
